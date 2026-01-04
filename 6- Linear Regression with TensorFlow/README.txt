@@ -27,13 +27,6 @@ Input (2 features)
 -> Dense layer (1 neuron, linear activation)
 -> Output (y)
 
-How to Run
-1. Install dependencies:
-   pip install tensorflow numpy scikit-learn
-
-2. Run the script or notebook:
-   python regression_model.py
-
 Expected Results
 - Very low test loss (near zero)
 - Learned weights close to [2.0, 3.0]
